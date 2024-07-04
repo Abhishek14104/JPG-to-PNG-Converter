@@ -15,4 +15,4 @@ for filename in os.listdir(imageFolder):
     
 # Run this code by using 
 # python .\jpgToPngConverter.py pokedex\ new\
-# this in the command line
+# this in the command line.
