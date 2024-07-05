@@ -7,5 +7,8 @@ JPG to PNG Converter
 
 ## Usage
 To run the JPG to PNG converter script:
-- Copy code: python jpgToPngConverter.py imageFolder\ outputFolder\ \
--- [Replace imageFolder and outputFolder with your desired folder paths.]
+- Copy the code:
+  ```bash
+    python jpgToPngConverter.py imageFolder\ outputFolder\
+  ```
+- Replace imageFolder and outputFolder with your desired folder paths.
